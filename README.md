@@ -11,6 +11,8 @@ I also intend to continue expanding both this universe, as well as some differen
 
 Donations
 - Venmo: @Chadrbanks
+- BTC: 1F1Nc5spjxiWTTenn8rUtShxdo7omroCdx
+- ETH: 0x349D36020FD17D40f5a7Fa620777c6b42c132196
 
 ## Objective
 The object of PVPCards is to deal enough damage to all of your enemies to knock them out.
@@ -49,8 +51,8 @@ Turns continue until only one team (or player) is left.
 Winners are then declared, and you can shuffle and play the next game.
 
 ## Alternative Rule Sets
+- Begin with 5 HP (cards)
 - Book keeper
-- Extra HP
 - Free for all
 
 ## Card Manifest
