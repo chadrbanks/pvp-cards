@@ -56,57 +56,57 @@ Winners are then declared, and you can shuffle and play the next game.
 ## Card Manifest
 
 ### Green Items
-- Lockpicks & Loot: Draw 2 but discard one.
-- Throwing dagger
-- Throwing Daggers
-- Short Bow: Target a single player and roll 1d6. The target player must discard a card if you roll less than 4.
-- Enchanted Shortbow
-- Long Bow:
-- Enchanted Longbow
-- Cross bow:
-- Enchanted Crossbow
-- Hide: Enemies must roll to spot.
-- Set trap
-- Steal: Roll to steal a single card from a targeted player of your choice, keep the card if it is green or yellow other you must discard it.
+1. Lockpicks & Loot: Roll 1d10 on a table. 1 - 3 discards this card, 4 - 7 does nothing, you draw a new card on 8 or 9, and a 10 draws you two cards.
+2. Throwing dagger: Single Action TR:5 DMG:1
+3. X Throwing Daggers: Single Action TR:7 DMG:2
+4. Shortbow: Action TR:6 DMG:1
+5. X Enchanted Shortbow: Action TR:5 DMG:2
+6. Long Bow: Action TR:5 DMG:1
+7. X Enchanted Longbow: Action TR:4 DMG:2
+8. X Crossbow: Action TR:4 DMG:1
+9. X Enchanted Crossbow: Action TR:3 DMG:2
+10. Hide: PIFS -> Enemies must roll to spot before attacking TR:6.
+11. X Set trap: PIFE -> Enemies must save TR:6 DMG:1
+12. Steal: Roll (TR:6) to steal a single card from a targeted player of your choice, keep the card if it is green or yellow otherwise you must discard it.
 
 ### Red Items
-- Wound to skip turn
-- Throwing axe
-- Javlin
-- Hand axe: Target a single player and roll 1d6. The target player must discard a card if you roll less than 5.
-- Enchanted Handaxe
-- Greataxe
-- Enchanted Greataxe
-- War Hammer
-- Enchanted War Hammer
-- Extra action I
-- Extra action II
-- Rage Double damage
+1. Wound to skip turn: PIFS -> When you deal damage to a player, they lose a turn too.
+2. Throwing axe: Single Action TR:6 DMG:1
+3. X Javlin: Single Action TR:8 DMG:2
+4. Handaxe: Action TR:5 DMG:1
+5. X Enchanted Handaxe: Action TR:4 DMG:2
+6. Greataxe: Action TR:4 DMG:1
+7. X Enchanted Greataxe: Action TR:3 DMG:2
+8. X War Hammer: Action TR:3 DMG:1
+9. X Enchanted War Hammer: Action TR:2 DMG:2
+10. Extra action I: PIFS -> You can take 2 actions per turn.
+11. X Extra action II: PIFS -> You can take 2 actions per turn.
+12. Rage: PIFS -> +1 to DMG every time you inflict DMG on a player.
 
 ### Yellow Items
-- Leather Armor: You play this card by laying it in front of you. Every time you are targeted by a red or green card with this card in front of you, the enemies succeeding roll value is decreased by 1. If the enemy still succeeds, this card is discarded instead of one from your hand.
-- Chain armor
-- Magic armor
-- Magic bag at start of turn, you can risk roll 1d6 to draw a card.
-- Power Ring for +1 to targeting rolls
-- Treasure to discard for 2
-- Treasure to discard for 3
-- Treasure to discard for 4
-- Investable business
-- The “Winning” Machine
-- Health potion
-- Necklace of revive
+1. Leather Armor: PIFS -> +1 TR when being attacked. If the enemy succeeds, this card is discarded instead of one from your hand.
+2. X Chain armor: PIFS -> +2 TR when being attacked. If the enemy succeeds, this card is discarded instead of one from your hand.
+3. Magic armor: PIFS -> +3 TR when being attacked. If the enemy succeeds, this card is discarded instead of one from your hand.
+4. X Magic bag at start of turn, you can risk roll 1d6 to draw a card.
+5. Power Ring: PIFS -> -1 TR to all your rolls while you have this.
+6. Treasure I: Discard to draw 2 cards. Can will.
+7. X Treasure II: Discard to draw 3 cards. Can will
+8. X Treasure III: Discard to draw 4 cards. Can will
+9. Local Business: PIFS -> Roll each turn. 1 - 3 discard this card. 4 - 7 Nothing. 8 - 9 draw a card. 10 draw 2 cards.
+10. X The “Winning” Machine
+11. Health potion: Discard to draw 2 cards.
+12. X Necklace of Life: When you discard this card, draw 3 cards.
 
 ### Blue Items
-- Heal spell: 
-- Missile of magic
-- Fireball spell: Target up to 3 players and have each of them roll 1d6. Each player must discard a card if they roll less than 3.
-- Shield barrier
-- Blood magic for gaining life
-- Scry to spy
-- Divine intervention
-- Greater healing
-- Red dot
-- Captain swap
-- Necro
-- Spell of wonder
+1. Heal spell: Roll to allow target to draw a card TR:6
+2. Missile of magic: Action targets up to 1 players TR:5 DMG:1
+3. Fireball spell: Action targets up to 3 players TR:6 DMG:1
+4. Shield barrier: PIFS -> If attacker fails, they take the damage.
+5. Blood Magic: PIFS -> Get 2t for DMG, and can spend action to add 1t until 0.
+6. X Scry to spy
+7. Divine intervention: PIFS -> Roll at this time is saved.
+8. X Greater healing
+9. X Red dot
+10. X Captain swap
+11. X Necro
+12. X Spell of wonder
